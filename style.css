@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+}
+
+body {
+    padding-top: 100px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: lemonchiffon;
+}
+
+#result{
+    font-size: 50px;
+}
